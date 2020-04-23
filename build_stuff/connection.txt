@@ -1,0 +1,6 @@
+DATABASE: id13348972_racing
+USER: id13348972_cirrastec_racing
+PASSWORD: j2d89]Gbt&7]@\$>
+GERENCIADOR: databases.000webhost.com
+
+LOCAL PORT: 3310
